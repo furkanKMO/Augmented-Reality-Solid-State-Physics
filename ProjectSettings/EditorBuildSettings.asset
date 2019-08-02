@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/sahne1.unity
+    guid: 0560225c79e3d6c49993dbd0ea14e7a5
+  - enabled: 1
+    path: Assets/Scenes/sahne2.unity
+    guid: e643526714ef00749a1b5e1f7771b744
+  - enabled: 1
+    path: Assets/Scenes/sahne3katlama.unity
+    guid: a3523f1cfa93d9f4d966f384b261cd10
+  - enabled: 1
+    path: Assets/Scenes/sahne4enyakin.unity
+    guid: 093c7ba421fb9324ea671271fd2875f3
+  - enabled: 1
+    path: Assets/Scenes/sahne5ikincienyakin.unity
+    guid: c04c5249be8f96142be614c15ed1918b
+  m_configObjects: {}
